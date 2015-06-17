@@ -1,0 +1,62 @@
+/*
+ * Copyright (C) 2013 Jose F. Maldonado
+ *
+ * This file is part of SitemapsXml.
+ *
+ * SitemapsXml is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * SitemapsXml is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with SitemapsXml. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+form.sitemaps div.buttons
+{
+    text-align: right;
+}
+
+form.sitemaps div.textarea
+{
+    border: 1px solid gray;
+}
+ 
+form.sitemaps textarea
+{
+    font-family: "Courier New", Courier, monospacel;
+    font-size: 10pt;
+    height: 250px;
+}
+
+form.sitemaps button
+{
+    text-align: center;
+    padding: 2px;
+}
+
+form.sitemaps button span
+{
+    position: relative;
+    bottom: -3px;
+}
+
+div.example
+{
+    margin-top: 10px;
+}
+
+div.example div.code
+{
+    margin: 5px;
+    padding: 2px;
+    background-color: #f0f0f0;
+    font-family: "Courier New", Courier, monospace;
+}
+
+
